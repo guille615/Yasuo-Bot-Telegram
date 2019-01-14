@@ -11,5 +11,8 @@
     "url": "https://github.com/guille615/Yasuo-Bot-Telegram"
   },
   "author": "Guille",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
