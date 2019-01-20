@@ -1,0 +1,13 @@
+{
+    "telegramToken": "791607314:AAHrgf_dAAn-I1OrljIy2OElVTik68ZaJ-I",
+    "prefix" : "/",
+    "rutaPuedoCircular": "https://puedocircular.com/api/v2/license/",
+    "emojis": {
+        "sonrisa": "{1F603}",
+        "guino": "{1F609}",
+        "ups": "{1F605}",
+        "jou": "{1F613}",
+        "sorpresa": "{1F631}",
+        "miedo": "{1F616}"
+    }
+}
